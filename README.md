@@ -14,4 +14,4 @@ https://secure-coast-66975.herokuapp.com/
 
 ## Screenshot:
 
-<img src="https://github.com/Mcrouse42/budget-tracker/blob/master/screenshot/budget%20tracker%20screen%20shot.png" />
+<img src="https://github.com/Mcrouse42/book-search-engine/blob/master/assets/screenshot.png" />
